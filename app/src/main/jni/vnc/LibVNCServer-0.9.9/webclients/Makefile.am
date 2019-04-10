@@ -1,4 +1,4 @@
-SUBDIRS = java-applet
-DIST_SUBDIRS = java-applet
-EXTRA_DIST=index.vnc novnc
+SUBDIRS = novnc
+DIST_SUBDIRS = novnc
+EXTRA_DIST=index.vnc
 
